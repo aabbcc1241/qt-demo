@@ -18,7 +18,7 @@ ApplicationWindow {
             width: parent.width
             ToolButton{
                 text:qsTr("Open")
-                iconSource: "icons/folder.png"
+                iconSource: "icons/document-open.png"
                 onClicked:root.color="red"
                 visible: true
                 tooltip: text
