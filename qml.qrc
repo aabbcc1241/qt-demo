@@ -1,5 +1,9 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>main.cpp</file>
+        <file>icons/converseen.png</file>
+        <file>icons/document-save.png</file>
+        <file>icons/document-open.png</file>
     </qresource>
 </RCC>
